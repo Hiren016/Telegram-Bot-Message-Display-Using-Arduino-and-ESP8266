@@ -1,0 +1,2 @@
+# Telegram-Bot-Message-Display-Using-Arduino-and-ESP8266
+The system enables users to send text messages via a Telegram Bot, which are instantly retrieved by an ESP8266 WiFi module, processed by an Arduino Uno, and displayed on a 16x2 LCD screen. This prototype mirrors real-world applications such as railway station information boards, smart home notification panels, and industrial monitoring systems.
